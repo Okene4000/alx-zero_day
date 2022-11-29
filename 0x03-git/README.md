@@ -1,2 +1,2 @@
 this is the second
-Thia will be my third change
+This will be my third change
